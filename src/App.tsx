@@ -35,7 +35,11 @@ function App() {
             const omikujiResult = decodeURI(
               String(window.location.href).split("#")[1]
             );
-            copyToClipboard(omikujiResult);
+            copyToClipboard(
+              "おみくじの結果: " +
+                omikujiResult +
+                "\nhttps://rabbitprogram.com/test/react-test/"
+            );
             alert(
               omikujiResult +
                 " でした！\n✅ 結果をクリップボードにコピーしました"

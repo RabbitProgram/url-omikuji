@@ -8,3 +8,6 @@ https://rabbitprogram.com/tools/url-omikuji/
 おみくじの結果: 大吉
 https://rabbitprogram.com/tools/url-omikuji/
 ```
+
+## 参考サイト
+https://nullnull.dev/blog/url-animation/

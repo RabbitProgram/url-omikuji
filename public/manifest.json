@@ -1,6 +1,12 @@
 {
-  "short_name": "URLおみくじ",
   "name": "URLおみくじ",
+  "short_name": "URLおみくじ",
+  "description": "URLで占うおみくじです",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff",
+  "theme_color": "#fff",
   "icons": [
     {
       "src": "%PUBLIC_URL%/favicons/android-chrome-36x36.png",
@@ -57,9 +63,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }

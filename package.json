@@ -1,8 +1,8 @@
 {
-  "name": "react-test",
-  "version": "0.1.0",
+  "name": "URLおみくじ",
+  "version": "1.0.0",
   "private": true,
-  "homepage": "https://rabbitprogram.com/test/react-test/",
+  "homepage": "https://rabbitprogram.com/tools/url-omikuji/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",

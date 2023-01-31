@@ -38,7 +38,7 @@ function App() {
             copyToClipboard(
               "おみくじの結果: " +
                 omikujiResult +
-                "\nhttps://rabbitprogram.com/test/react-test/"
+                "\nhttps://rabbitprogram.com/tools/url-omikuji/"
             );
             alert(
               omikujiResult +

@@ -39,7 +39,7 @@ function App() {
     }
     window.location.hash = omikujiList[omikujiIndex % omikujiList.length];
     omikujiIndex++;
-  }, 80);
+  }, 100);
 
   const copyToClipboard = async (text: string) => {
     await global.navigator.clipboard.writeText(text);

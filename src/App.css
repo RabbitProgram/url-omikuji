@@ -37,3 +37,8 @@
     transform: rotate(360deg);
   }
 }
+
+.TopImage {
+  height: 40vmin;
+  pointer-events: none;
+}

@@ -10,4 +10,5 @@ https://rabbitprogram.com/tools/url-omikuji/
 ```
 
 ## 参考サイト
-https://nullnull.dev/blog/url-animation/
+- URLアニメーション：https://nullnull.dev/blog/url-animation/
+- スマホからのアクセスを禁止：https://www.site-convert.com/archives/2188#outline__3_1

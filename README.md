@@ -1,5 +1,5 @@
 # URLおみくじ
-https://rabbitprogram.com/tools/url-omikuji/
+https://rabbitprogram.com/tools/url-omikuji/ 　または　 https://is.gd/urlomkj
 
 <img width="600" alt="sample image" src="https://user-images.githubusercontent.com/74450836/215716373-02540339-edf7-4eaf-bb94-e55a9a1ad97a.png">
 

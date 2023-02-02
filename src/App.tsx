@@ -8,6 +8,7 @@ import {
   SlideProps,
   Snackbar,
   SnackbarOrigin,
+  Typography,
 } from "@mui/material";
 
 export type State = SnackbarOrigin & {
@@ -19,7 +20,7 @@ const TransitionLeft = (props: SlideProps) => {
   return <Slide {...props} direction="left" />;
 };
 
-function App() {
+export const App = () => {
   const [popupMessageState, setPopupMessageState] = useState<State>({
     open: false,
     children: <></>,
@@ -105,6 +106,4 @@ function App() {
       </header>
     </div>
   );
-}
-
-export default App;
+};
